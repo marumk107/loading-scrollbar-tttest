@@ -1,0 +1,14 @@
+#app {
+    display: flex;
+    height: 800px;
+}
+.sidebar {
+    width: 500px;
+
+}
+.ps {
+    height: 100%;
+}
+.content {
+    flex-grow: 1;
+}
